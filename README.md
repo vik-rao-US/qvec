@@ -8,3 +8,14 @@ API accepts form data as shown below.
 - BODY: "from" key is the input language, "to" is target language and "text" body of text to be translated
 ![image](https://user-images.githubusercontent.com/97724044/184069954-cbfd0038-b0aa-4bf9-88ee-8f1c0596df64.png)
 
+### Semantic Search
+1. Limit # of Rows
+2. Search by one or more language at a time
+3. Toggle search
+4. Input text in any vernacular language
+5. Results
+
+![image](https://user-images.githubusercontent.com/97724044/184070999-5e1be551-f6fc-46da-9db1-61039bc4f30b.png)
+
+### Search with Filters
+
