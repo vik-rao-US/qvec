@@ -20,7 +20,6 @@ API accepts form data as shown below.
 ![image](https://user-images.githubusercontent.com/97724044/184070999-5e1be551-f6fc-46da-9db1-61039bc4f30b.png)
 
 ### Search with Filters
-Check search by title or Select rating or views to get more finetined results
 ##### Web Preview: https://www.qvec.space/dash
 ![image](https://user-images.githubusercontent.com/97724044/184071518-c205363d-eda6-4719-8595-ea5782a819ff.png)
 
